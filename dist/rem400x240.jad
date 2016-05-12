@@ -1,0 +1,8 @@
+MIDlet-1: RememberTheSequence,/res/icon.png,RemMIDlet
+MIDlet-Jar-Size: 709671
+MIDlet-Jar-URL: rem400x240.jar
+MIDlet-Name: RememberTheSequence
+MIDlet-Vendor: Nextwave Multimedia Pvt Ltd
+MIDlet-Version: 1.1
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

@@ -1,0 +1,6 @@
+MIDlet-1: RememberTheSequence,/res/icon.png,RemMIDlet
+MIDlet-Vendor: Nextwave Multimedia Pvt Ltd
+MIDlet-Name: RememberTheSequence
+MIDlet-Version: 1.1
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
